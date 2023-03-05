@@ -14,3 +14,12 @@
 
 ## ローカルデータの組み込み
 * https://note.com/masa_kazama/n/n246df4af19f6
+
+## アプリケーションのネタ
+* https://note.com/npaka/n/na1c7539340f6
+
+## メモリ関連
+* https://note.com/npaka/n/n155e66a263a2
+
+## レイアウトパーサー
+* https://tech-blog.optim.co.jp/entry/2021/08/05/100000
