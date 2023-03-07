@@ -23,3 +23,11 @@
 
 ## レイアウトパーサー
 * https://tech-blog.optim.co.jp/entry/2021/08/05/100000
+
+## ライブラリ
+* LangChainとGPT Indexは一部機能は重複しているもの別物
+### LangChain
+* https://langchain.readthedocs.io/en/latest/index.html#
+
+### GPT Index
+* https://github.com/jerryjliu/gpt_index
