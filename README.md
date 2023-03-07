@@ -25,9 +25,13 @@
 * https://tech-blog.optim.co.jp/entry/2021/08/05/100000
 
 ## ライブラリ
-* LangChainとGPT Indexは一部機能は重複しているもの別物
+* LangChainとLlamIndexは一部機能は重複しているもの別物
+* 後者は外部データとLLMをつなぐインタフェースを提供する
 ### LangChain
 * https://langchain.readthedocs.io/en/latest/index.html#
 
-### GPT Index
+### LlamaIndex(GPT Index)
 * https://github.com/jerryjliu/gpt_index
+
+## 参考ドキュメント
+* https://www.keywalker.co.jp/blog/tech-ai-openqa-2023.html
