@@ -35,3 +35,4 @@
 
 ## 参考ドキュメント
 * https://www.keywalker.co.jp/blog/tech-ai-openqa-2023.html
+* https://note.com/oshizo/n/n137aaa2c29d4
